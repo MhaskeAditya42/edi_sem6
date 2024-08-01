@@ -1,0 +1,17 @@
+Flask
+Flask-Session
+PyPDF2
+datetime
+gtts
+sounddevice
+asyncio
+soundfile
+numpy
+time
+SpeechRecognition
+langchain
+langchain_google_genai
+google-generativeai
+langchain_community
+langchain-chains
+youtube-transcript-api
